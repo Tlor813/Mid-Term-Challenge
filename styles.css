@@ -1,10 +1,7 @@
 /* Diagnostic Styling */
-*{
+/* *{
   outline: 2px dotted gray;
+} */
+body {
+  height: 100vh;
 }
-
-
-/* temp background color */
-body{
-    background: green;
-  }

@@ -1,17 +1,15 @@
-# Web 2 Starter
+# Mid-Term-Challenge
 
 ## Why?
-* Saves time to setup a new project
-* Starteer files for any web project
-* Modern process and tooling
+* Testing JS Knowledge
 
 ## How?
-* Simply click on the "Use this template" button to create a new repository
+* Connecting Nodes, functions and variables
 
 
 
 ## Citations
-<a href="">Link</a>
+* [ColorKit Library](https://codepen.io/manikoth/pen/NPKVOxm.js)
 
 
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
